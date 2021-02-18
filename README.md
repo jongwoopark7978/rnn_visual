@@ -72,3 +72,6 @@ sk_plain.visual_skeleton_animate(use_relative_response=True, scattersize_max=50,
 6. Enriccorona, “enriccorona/human-motion-prediction-pytorch,” GitHub. [Online]. Available: https://github.com/enriccorona/human-motion-prediction-pytorch. [Accessed: 18-Dec-2020]. 
 7. XiaoCode-er, “XiaoCode-er/3D-Skeleton-Display,” GitHub. [Online]. Available: https://github.com/XiaoCode-er/3D-Skeleton-Display. [Accessed: 18-Dec-2020]. 
 ```
+
+## result
+![wave_hands]
