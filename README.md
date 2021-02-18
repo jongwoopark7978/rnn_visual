@@ -74,4 +74,7 @@ sk_plain.visual_skeleton_animate(use_relative_response=True, scattersize_max=50,
 ```
 
 ## result
-![wave_hands]
+![result1](https://github.com/jongwoopark7978/rnn_visual/blob/main/result/wave_hands.gif)
+![result2](https://github.com/jongwoopark7978/rnn_visual/blob/main/result/rub_two_hands.gif)
+![result3](https://github.com/jongwoopark7978/rnn_visual/blob/main/result/give_something_to_eachother.gif)
+
