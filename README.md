@@ -74,7 +74,10 @@ sk_plain.visual_skeleton_animate(use_relative_response=True, scattersize_max=50,
 ```
 
 ## result
+### A23: Hand Waving <br><br>
 ![result1](https://github.com/jongwoopark7978/rnn_visual/blob/main/result/wave_hands.gif)
+### A34: Rub Two Hands Together <br><br>
 ![result2](https://github.com/jongwoopark7978/rnn_visual/blob/main/result/rub_two_hands.gif)
+### A56: Giving Something to Other Person <br><br>
 ![result3](https://github.com/jongwoopark7978/rnn_visual/blob/main/result/give_something_to_eachother.gif)
 
